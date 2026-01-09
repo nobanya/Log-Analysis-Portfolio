@@ -1,4 +1,4 @@
-# # Log-Analysis-Portfolio
+# Log-Analysis-Portfolio
 
 Welcome to the Cybersecurity Training repository! This repository contains hands on projects designed to learn and practice essential cybersecurity skills, focusing on vulnerability management, incident response, and log analysis.
 
