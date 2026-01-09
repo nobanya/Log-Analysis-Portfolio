@@ -32,6 +32,8 @@ This project introduces the core concepts of log analysis through hands on inter
 
 **Expected Output**: A directory listing that includes files such as `access.log` and `error.log`.
 
+---
+
 ### Exercise 2: Understanding Access Logs
 
 **Steps:**
@@ -44,6 +46,8 @@ This project introduces the core concepts of log analysis through hands on inter
 3. Select several entries and identify each component within the log line
 
 **Expected Output**: Familiarity with the standard Apache access log format, including IP addresses, timestamps, HTTP methods, URLs, response codes, and user agents.
+
+---
 
 ### Exercise 3: Filtering Access Log 
 
@@ -64,6 +68,8 @@ This project introduces the core concepts of log analysis through hands on inter
 
 **Expected Output**: A filtered list of log entries matching the specified criteria, displaying how to extract specific data from log files.
 
+---
+
 ### Exercise 4: Reviewing Error Logs
 
 **Steps:**
@@ -76,6 +82,8 @@ This project introduces the core concepts of log analysis through hands on inter
 3. Review timestamps and repetition patterns to determine whether errors are isolated or recurring.
 
 **Expected Output**: Improved understanding of error log entries and the types of issues they can reveal.
+
+---
 
 ### Exercise 5: Aggregating & Summarizing Log Data
 
@@ -96,4 +104,7 @@ This project introduces the core concepts of log analysis through hands on inter
 
 **Expected Output**: Aggregated results highlighting request volume of requests per IP address, the number of requests per day, and the most requested URLs.
 
+---
+
+### Outcome
 By completing these exercises, learners develop practical experience working with Apache logs, building skills that are essential for detecting security issues, analyzing web traffic trends, and troubleshooting web server problems in real world environments.
