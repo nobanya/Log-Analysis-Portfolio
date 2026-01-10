@@ -30,13 +30,14 @@ To get started with these projects, follow these steps:
 
 ## About Me
 
-As a SOC Analyst, I presented my projects by showing how I combined real‑world defensive skills with practical, hands‑on learning, both in my own work and in the training experiences I shared with others. Connect with me for more updates and resources:
+As a SOC Analyst, I presented my projects by showing how I combined real world defensive skills with practical, hands on learning, both in my own work and in the training experiences I shared with others. Connect with me for more updates and resources:
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/)
 
 
-Feel free to reach out with any questions or feedback. Happy learning!
+This work is intended to be shared with recruiters and hiring managers as evidence of hands on experience rather than purely theoretical knowledge. 
 
-## License
+---
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+*Note: These projects are based on publicly available learning material and were independently completed and documented as part of my personal cybersecurity portfolio.*
+
