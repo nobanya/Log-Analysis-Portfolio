@@ -20,7 +20,7 @@ To get started with these projects, follow these steps:
 
 1. Clone the repository to your local system:
     ```bash
-    git clone https://github.com/nobanya/Log-Analysis-Portfolio.git
+    gh repo clone nobanya/Log-Analysis-Portfolio
     cd Log-Analysis-Portfolio
     ```
 
